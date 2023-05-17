@@ -1,0 +1,1 @@
+This folder is to save the loss list that can be open by tensorboard
