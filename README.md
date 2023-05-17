@@ -24,9 +24,7 @@ Run **experiment.py** to run the MSNN for C.elegan 3D tomography, the data of C.
 
 ## Result
 
-[result](The reconstruction results with TV regularization.pdf)
-
-
+The reconstruction results with TV regularization are save in the folder IMG.
 
 ## License
 
