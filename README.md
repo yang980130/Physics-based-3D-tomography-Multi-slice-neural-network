@@ -22,3 +22,10 @@ Concurrently, MSNN can calibrate the intensity of different illumination and the
 
 Run **experiment.py** to run the MSNN for C.elegan 3D tomography, the data of C.elegan is from  [Professor Laura Waller's Lab](https://drive.google.com/drive/folders/19eQCMjTtiK8N1f1nGtXlfXkEa8qL6kDl). If you want to use this code to reconstruct your own data, please carefully adjust the parameters in config.py to fit your optical system configuration. 
 
+## Result
+
+[result](The reconstruction results with TV regularization.pdf)
+
+## License
+
+This project is licensed under the terms of the BSD-3-Clause license.
