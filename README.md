@@ -1,12 +1,12 @@
 # Physics-based 3D tomography Multi-slice neural network(MSNN)
 
-torch(python) implementation of paper: **3D refractive index imaging with an untrained physical-based multi-slice Neural Network**. This GitHub provides the codes, and links to test data.
+torch(python) implementation of paper: **Refractive index tomography with a physics based optical neural network**. This GitHub provides the codes, and links to test data.
 
 ## citation
 
 If you use this project in your own research, please cite our corresponding paper:
 
-Delong Yang, Shaohui Zhang, Yao Hu and Qun Hao, **3D refractive index imaging with an untrained physical based multi-slice Neural Network**
+Delong Yang, Shaohui Zhang, Yao Hu and Qun Hao, **Refractive index tomography with a physics based optical neural network**
 
 ## Abstract
 
