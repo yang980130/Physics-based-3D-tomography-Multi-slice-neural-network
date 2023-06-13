@@ -6,7 +6,7 @@ torch(python) implementation of paper: **Refractive index tomography with a phys
 
 If you use this project in your own research, please cite our corresponding paper:
 
-Delong Yang, Shaohui Zhang, Yao Hu and Qun Hao, **Refractive index tomography with a physics based optical neural network**
+Delong Yang, Shaohui Zhang, Yao Hu and Qun Hao, **[Refractive index tomography with a physics based optical neural network](https://arxiv.org/abs/2306.06558)**
 
 ## Abstract
 
